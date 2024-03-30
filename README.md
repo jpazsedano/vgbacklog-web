@@ -39,8 +39,6 @@ lista organizada por plataformas de todos los juegos de la colección.
 Básicamente sirve para poder adminsitrar todos los objetos guardados en la
 base de datos y poder realizar correcciones o limpiezas.
 
-> TODO: Completar la lista.
-
 Referencia rápida de desarrollo
 -------------------------------
 
